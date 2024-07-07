@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Java or university learning experience.
 - 📫 How to reach me: 3525904232@qq.com
 - ⚡ Fun fact: I am a graduate of Northeastern University.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamJiangrx)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamJiangrx)
+![Metrics](/github-metrics.svg)
 
-![Metrics](/.github/workflows/main.yaml)
 
